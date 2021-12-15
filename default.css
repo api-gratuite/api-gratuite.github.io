@@ -6,6 +6,7 @@ body {
 
 .menu {
     width: 100%;
+    height: 52px;
     padding: 05px;
     display: table;
     color: #D1C4E9;
