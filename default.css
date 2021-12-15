@@ -46,7 +46,7 @@ body {
     display: table;
 }
 
-.home-conteudo, img {
+.home-conteudo > img {
     border: 1px solid #D1C4E9;
     border-radius: 05px;
 }
