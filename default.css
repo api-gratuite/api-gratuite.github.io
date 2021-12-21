@@ -68,6 +68,14 @@ body {
     display: table-cell;
 }
 
+.item-2 {
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    display: table-cell;
+}
+
 .footer {
     left: 0;
     bottom: 0;
