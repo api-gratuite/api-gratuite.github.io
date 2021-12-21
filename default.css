@@ -59,19 +59,6 @@ body {
 
 .item {
     width: 50%;
-    /*margin: 10px;*/
-    /*padding: 10px;*/
-    /*padding-left: 025px;
-    padding-right: 025px;
-    padding-top: 05px;*/
-    text-align: center;
-    display: table-cell;
-}
-
-.item-2 {
-    width: 50%;
-    margin: 10px;
-    padding: 10px;
     text-align: center;
     display: table-cell;
 }
