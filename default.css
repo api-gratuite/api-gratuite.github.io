@@ -59,6 +59,8 @@ body {
 
 .item {
     width: 50%;
+    margin: 10px;
+    padding: 10px;
     text-align: center;
     display: table-cell;
 }
