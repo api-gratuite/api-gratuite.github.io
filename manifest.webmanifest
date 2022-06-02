@@ -1,0 +1,8 @@
+{
+    "short_name": "APi",
+    "name": "Gratuite",
+    "background_color": "#0F0F0F",
+    "display": "fullscreen",
+    "scope": "/",
+    "theme_color": "#0F0F0F"
+}
